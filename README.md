@@ -1,8 +1,9 @@
 <div align="center">
   <h3>TW-D</h3>
-  <h4>Offensive Ruby Developer</h4>
+  <h4>Offensive tools developer</h4>
   <hr />
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby shields.io">
+  <img src="https://img.shields.io/badge/Powershell-CC342D?style=for-the-badge&logo=powershell&logoColor=white" alt="Powershell shields.io">
 </div>
 
 <br />
