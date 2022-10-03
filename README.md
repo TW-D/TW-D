@@ -9,8 +9,12 @@
 <hr />
 
 <img src="https://github-readme-stats.vercel.app/api?username=TW-D&show_icons=true&theme=radical" alt="GitHub General Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tw-d&show_icons=true&theme=radical" alt="GitHub Streak Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TW-D&theme=radical" alt="GitHub Language Stats" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TW-D&theme=radical" alt="GitHub Language Stats" />
+</div>
+<div align="right">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tw-d&show_icons=true&theme=radical" alt="GitHub Streak Stats" />
+</div>
 
 <hr />
 
