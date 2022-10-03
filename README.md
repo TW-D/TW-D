@@ -15,8 +15,10 @@
 
 <br />
 
-<img src="https://www.hackthebox.eu/badge/image/511306" alt="Hack The Box" />
-<img src="https://wigle.net/bi/dYBZLnwaqrr9T+lIAM1+VA.png" border="0" alt="WiGLE stats" />
+<div align="center">
+  <img src="https://www.hackthebox.eu/badge/image/511306" alt="Hack The Box" />
+  <img src="https://wigle.net/bi/dYBZLnwaqrr9T+lIAM1+VA.png" border="0" alt="WiGLE stats" />
+</div>
 
 <br />
 
