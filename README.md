@@ -1,6 +1,6 @@
 <div align="center">
-  <h3>TW-D</h3>
-  <h4>Offensive tools developer</h4>
+  <h3>Hi 👋, I'm TW-D</h3>
+  <h4>A passionate offensive tools developer.</h4>
   <hr />
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby shields.io" />
   <img src="https://img.shields.io/badge/Shell-CC342D?style=for-the-badge&logo=shell&logoColor=white" alt="Shell shields.io" />
@@ -13,3 +13,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TW-D&theme=radical" alt="GitHub Language Stats" />
 <img src="https://www.hackthebox.eu/badge/image/511306" alt="Hack The Box" />
 <img src="https://wigle.net/bi/dYBZLnwaqrr9T+lIAM1+VA.png" border="0" alt="WiGLE stats" />
+
+<div align="left>
+  <img src="https://komarev.com/ghpvc/?username=tw-d&label=Profile%20views&color=0e75b6&style=flat" alt="Visitors Count" />
+</div>
