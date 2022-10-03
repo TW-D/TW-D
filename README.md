@@ -31,6 +31,6 @@
 
 <br />
 
-<div align="right>
+<div align="right">
   <img src="https://komarev.com/ghpvc/?username=tw-d&label=Profile%20views&color=0e75b6&style=flat" alt="Visitors Count" />
 </div>
