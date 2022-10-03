@@ -10,7 +10,7 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=TW-D&show_icons=true&theme=radical" alt="GitHub General Stats" />
-</div
+</div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TW-D&theme=radical" alt="GitHub Language Stats" />
 </div>
