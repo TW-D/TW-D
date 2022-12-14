@@ -4,6 +4,7 @@
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby shields.io" />
   <img src="https://img.shields.io/badge/Shell-CC342D?style=for-the-badge&logo=shell&logoColor=white" alt="Shell shields.io" />
   <img src="https://img.shields.io/badge/Powershell-CC342D?style=for-the-badge&logo=powershell&logoColor=white" alt="Powershell shields.io" />
+  <img src="https://img.shields.io/badge/JavaScript-CC342D?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript shields.io" />
 </div>
 
 <hr />
