@@ -8,10 +8,6 @@
     <img src="https://img.shields.io/badge/Shell-CC342D?style=for-the-badge&logo=shell&logoColor=white" alt="Shell shields.io" />
     <img src="https://img.shields.io/badge/Powershell-CC342D?style=for-the-badge&logo=powershell&logoColor=white" alt="Powershell shields.io" />
   </div>
-  <div>
-    <img src="https://img.shields.io/badge/PHP-CC342D?style=for-the-badge&logo=php&logoColor=white" alt="PHP shields.io" />
-    <img src="https://img.shields.io/badge/JavaScript-CC342D?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript shields.io" />
-  </div>
 </div>
 
 <hr />
