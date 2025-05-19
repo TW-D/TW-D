@@ -26,7 +26,7 @@
 
 <div align="center">
   <div>
-    <img src="https://www.hackthebox.eu/badge/image/511306" alt="Hack The Box" />
+    <!--<img src="https://www.hackthebox.eu/badge/image/511306" alt="Hack The Box" />-->
   </div>
   <div>
     <img src="https://wigle.net/bi/dYBZLnwaqrr9T+lIAM1+VA.png" border="0" alt="WiGLE stats" />
