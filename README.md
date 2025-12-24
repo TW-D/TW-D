@@ -13,24 +13,13 @@
 <hr />
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TW-D&show_icons=true&theme=radical" alt="GitHub General Stats" />
+  <!-- ... -->
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TW-D&theme=radical" alt="GitHub Language Stats" />
+  <!-- ... -->
 </div>
 <div align="right">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tw-d&show_icons=true&theme=radical" alt="GitHub Streak Stats" />
-</div>
-
-<hr />
-
-<div align="center">
-  <div>
-    <!-- <img src="https://www.hackthebox.eu/badge/image/511306" alt="Hack The Box" /> -->
-  </div>
-  <div>
-    <!-- <img src="https://wigle.net/bi/dYBZLnwaqrr9T+lIAM1+VA.png" border="0" alt="WiGLE stats" /> -->
-  </div>
+  <!-- ... -->
 </div>
 
 <br />
