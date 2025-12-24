@@ -5,8 +5,12 @@
     <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby shields.io" />
   </div>
   <div>
-    <img src="https://img.shields.io/badge/Shell-CC342D?style=for-the-badge&logo=shell&logoColor=white" alt="Shell shields.io" />
-    <img src="https://img.shields.io/badge/Powershell-CC342D?style=for-the-badge&logo=powershell&logoColor=white" alt="Powershell shields.io" />
+    <img src="https://img.shields.io/badge/Bash-CC342D?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash shields.io" />
+    <img src="https://custom-icon-badges.demolab.com/badge/Powershell-CC342D?style=for-the-badge&logo=powershell-white&logoColor=white" alt="PowerShell demolab.com" />
+  </div>
+  <div>
+    <img src="https://img.shields.io/badge/Debian-CC342D?style=for-the-badge&logo=debian&logoColor=white" alt="Debian shields.io" />
+    <img src="https://custom-icon-badges.demolab.com/badge/Windows-CC342D?style=for-the-badge&logo=debian&logoColor=white" alt="Windows demolab.com" />
   </div>
 </div>
 
