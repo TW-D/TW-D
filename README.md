@@ -1,6 +1,6 @@
 <div align="center">
   <h3>Hi 👋, I'm TW-D.</h3>
-  <h4>A passionate offensive tools developer.</h4>
+  <h4><i>A passionate offensive tools developer.</i></h4>
   <div>
     <img src="https://img.shields.io/badge/Ruby-CF0F47?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby shields.io" />
   </div>
